@@ -150,10 +150,3 @@ Nothing here is hardwired to Engineering Funda except the content:
    loaded one). It saves the new id to `.notebooklm-id`, which `ask_cited.py` and the skills read.
 2. Rewrite the persona: `cp CLAUDE.md.template CLAUDE.md` and fill in the expert, domain, and the
    interview "spine" (the core topics + pre-fetch questions for your field).
-
-## Credit
-
-Study-coaching layer regenerated from [@artemnovitckii](https://github.com/artemnovitckii)'s
-[jeffnippard-coach](https://github.com/artemnovitckii/jeffnippard-coach). Built on
-[notebooklm-coach](https://github.com/artemnovitckii/notebooklm-coach) and the
-[notebooklm-mcp-cli](https://github.com/jacob-bd/notebooklm-mcp-cli) / `notebooklm-py` projects. MIT.
